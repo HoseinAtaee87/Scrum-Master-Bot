@@ -1,0 +1,4 @@
+python-telegram-bot==20.8
+SQLAlchemy==2.0.30
+pymysql==1.1.1
+python-dotenv==1.1.1
